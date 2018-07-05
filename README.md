@@ -1,6 +1,6 @@
 # Telecom电话查询
 
-标签（空格分隔）：  HBase Hadoop MapReduce Mysql
+标签：  HBase Hadoop MapReduce Mysql
 
 ---
 总体架构为：<br>
